@@ -6,9 +6,6 @@ Eliel Raposo da silva
 <a href="https://github.com/ElielSilva/ElielSilva.github.io">
 <img src="https://user-images.githubusercontent.com/32067603/171478272-d0094b56-89cf-4176-9210-3e784dc30aaa.png" style="width: 60px" />
 </a>
-<a href="https://www.instagram.com/eliel_raposo/">
-<img src="https://user-images.githubusercontent.com/32067603/171482563-fdf4a47d-34db-4c37-8dd4-3e51b9f52953.png" style="width: 60px"></img>
-</a>
 
 Olá, me chamo Eliel Raposo, sou de Pernambuco, Brasil e atualmente estudo para ser Desenvolverdor Web na Trybe e no Instituto Federal de Pernambuco.
 
