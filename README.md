@@ -9,12 +9,25 @@ Eliel Raposo da silva
 
 Olá, me chamo Eliel Raposo, sou de Pernambuco, Brasil e atualmente estudo para ser Desenvolverdor Web na Trybe e no Instituto Federal de Pernambuco.
 
+Meus aprendizados até o momento:
+- Fundamentos(html,js,css, jest)
+- FrontEnd(react hooks, react with class, React Testing Labrary, Sass, JWT)
+- BackEnd(node,JS, TypeScript, API rest(arquitetura MSC com Express), Mysql, MongoDB, test(jest,mocha), docker,JWT)
+- Ciência de dados(python, panda, numpy) em andamento
+
 Meus interesses pessoais:
 
-- Estou estudando contextApi e hooks em react.
+- Estou estudando Ciencia de Dados.
 - meus robs são futebol e games online e ler a bíbia.
 - meu objetivo é ser um futuro Desenvolvedor Full Stack.
 - Envie-me um Email silvaeliel940@gmail.com
+
+Formação acadêmica:
+
+- Redes de Computadores(IFPE): completo
+- Administração(UPE): trancado
+- Pessoa desenvolvedora Full Stack (TRYBE): em andamento
+- Análise desenvolvimento de sistemas (IFPE): em andamento
 
 <h3 align="left">Linguagens e Skills:</h3>
 
