@@ -12,7 +12,8 @@ Olá, me chamo Eliel Raposo, sou de Pernambuco, Brasil e atualmente estudo para 
 Meus aprendizados até o momento:
 - Fundamentos(html,js,css, jest)
 - FrontEnd(react hooks, react with class, React Testing Labrary, Sass, JWT)
-- BackEnd(node,JS, TypeScript, API rest(arquitetura MSC com Express), Mysql, MongoDB, test(jest,mocha), docker,JWT)
+- BackEnd(docker,banco de dados SQL, NoSQL, Node.js, Express, Mocha,Chai e Sinon, APIs, REST,JWT, ORM, deploy com Heroku, TypeScript, POO,
+ SOLID,conceitos de CI/CD, VPS)
 - Ciência de dados(python, panda, numpy) em andamento
 
 Meus interesses pessoais:
