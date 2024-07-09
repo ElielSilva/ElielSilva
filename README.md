@@ -27,7 +27,7 @@ Formação acadêmica:
 
 - Redes de Computadores(IFPE): completo
 - Administração(UPE): trancado
-- Pessoa desenvolvedora Full Stack (TRYBE): em andamento
+- Pessoa desenvolvedora Full Stack (TRYBE): completo
 - Análise desenvolvimento de sistemas (IFPE): em andamento
 
 <h3 align="left">Linguagens e Skills:</h3>
