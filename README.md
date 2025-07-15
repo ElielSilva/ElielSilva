@@ -1,27 +1,10 @@
 Eliel Raposo da silva
 
-<a href="https://www.linkedin.com/in/eliel-raposo-da-silva-906909223/">
+<a href="https://www.linkedin.com/in/eliel-raposo-da-silva/">
 <img src="https://user-images.githubusercontent.com/32067603/171483635-88d32672-2d64-4e78-bb85-d5704892b8f7.png" style="width: 60px"></img>
 </a>
-<a href="https://github.com/ElielSilva/ElielSilva.github.io">
-<img src="https://user-images.githubusercontent.com/32067603/171478272-d0094b56-89cf-4176-9210-3e784dc30aaa.png" style="width: 60px" />
-</a>
 
-Olá, me chamo Eliel Raposo, sou de Pernambuco, Brasil e atualmente estudo para ser Desenvolverdor Web na Trybe e no Instituto Federal de Pernambuco.
-
-Meus aprendizados até o momento:
-- Fundamentos(html,js,css, jest)
-- FrontEnd(react hooks, react with class, React Testing Labrary, Sass, JWT)
-- BackEnd(docker,banco de dados SQL, NoSQL, Node.js, Express, Mocha,Chai e Sinon, APIs, REST,JWT, ORM, deploy com Heroku, TypeScript, POO,
- SOLID,conceitos de CI/CD, VPS)
-- Ciência de dados(python, panda, numpy) em andamento
-
-Meus interesses pessoais:
-
-- Estou estudando Ciencia de Dados.
-- meus robs são futebol e games online e ler a bíbia.
-- meu objetivo é ser um futuro Desenvolvedor Full Stack.
-- Envie-me um Email silvaeliel940@gmail.com
+Olá, me chamo Eliel, sou de Pernambuco, Brasil e atualmente estudo análise e desenvolvimento no Instituto Federal de Pernambuco.
 
 Formação acadêmica:
 
